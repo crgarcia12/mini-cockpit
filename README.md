@@ -1,12 +1,12 @@
 # miniCOCKPIT
 
-A small Windows app for miniFCU, miniEFIS and miniOVHD. See what the hardware sends, map controls, test lights, and fly the C208 in MSFS.
+A small Windows app that lets you use miniFCU, miniEFIS and miniOVHD beyond Airbus aircraft, including ASOBO's G1000-equipped aircrafts. For example: Cessna 208B Caravan in MSFS. Inspect serial traffic, map controls and test lights.
 
 **Start:** automatic aircraft detection, manual selection, panel connection status, and a three-second test of all 29 button lights.
 
 ![Start screen](media/screenshot-main.png)
 
-**Test:** real panel photos highlight the control you touch. Mappings, raw serial traffic, captures and output tests live here too.
+**Test:** Visual pannel that shows in real time the knobs and buttons being pushed, so you can validate the correctness of all the buttons. Allow custom mappings, raw serial traffic, captures and output to test live events
 
 ![Test workspace](media/screenshot-test.png)
 
