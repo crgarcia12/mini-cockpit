@@ -1,0 +1,15 @@
+*.exe
+*.tmp
+captures
+dls-inspection
+tests
+backups
+status.json
+response.json
+command*.json
+fatal.log
+window.png
+aircraft.txt
+SimConnect.dll
+Microsoft.FlightSimulator.SimConnect.dll
+minicockpit-light-mappings.json
